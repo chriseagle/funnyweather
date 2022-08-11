@@ -1,13 +1,9 @@
 {
-  "name": "funnyweather",
+  "name": "@funnyweather/utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "private": true,
-  "workspaces": [
-    "./projects/*",
-    "./packages/*"
-  ],
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

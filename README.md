@@ -3,6 +3,7 @@
 
 - Next.js
 - TypeScript
+- Zod
 - React
 - ReactQuery
 - useSWR
